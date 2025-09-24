@@ -20,7 +20,7 @@ header {
     font-weight: bold;
     margin: 0 0 20px 0;
     text-align: center;
-    border-radius: 10px;
+    border-radius: 0px;
 }
 
 /* Footer */
@@ -30,7 +30,7 @@ footer {
     padding: 10px;
     margin-top: 20px;
     background-color: #333;
-    border-radius: 5px;
+    border-radius: 0px;
 }
 
 /* Profile image */
@@ -109,4 +109,5 @@ div:hover {
     transform: translateY(-5px);
     box-shadow: 0 8px 20px rgba(0, 0, 0, 0.6);
 }
+
 
